@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100&family=Roboto:wght@100&display=swap');
+
+.top-nav {
+
+}
+
+
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-iteam {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: white;
+}
+
+
+.about  {
+    text-align: center;
+    font-size:medium;
+}
+
+#classes {
+    text-align: center;
+
+}
+
+#gallery {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:grey;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color:grey;
+    border-color: black;
+}
