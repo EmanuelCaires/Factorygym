@@ -11,7 +11,7 @@
   </head>
 <body>
     <section= class="top-nav">
-        <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+        <nav class="navbar navbar-expand-lg fixed-top bg-dark navbar-dark">
              <div class="container">
                 <a href="#" class="navbar-brand">FactoryGym</a>  
                     <button
@@ -135,7 +135,7 @@
             <!-- Facebook -->
             <a
               class="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.facebook.com/" target="_blank"
               role="button"
               data-mdb-ripple-color="dark"
               ><i class="fab fa-facebook-f"></i
@@ -144,7 +144,7 @@
             <!-- Twitter -->
             <a
               class="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.Twitter.com/" target="_blank"
               role="button"
               data-mdb-ripple-color="dark"
               ><i class="fab fa-twitter"></i
@@ -154,7 +154,7 @@
             <!-- Instagram -->
             <a
               class="btn btn-link btn-floating btn-lg text-dark m-1"
-              href="#!"
+              href="https://www.Instagram.com/" target="_blank"
               role="button"
               data-mdb-ripple-color="dark"
               ><i class="fab fa-instagram"></i
@@ -169,6 +169,28 @@
           <a class="text-dark" href="https://factorygym.com/">factorygym.com</a>
         </div>
       </footer>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script type="text/javascript">
+      var nav = document.querySelector('nav');
+      window.addEventListener('scroll', function () {
+      if (window.pageYOffset > 100) {
+      nav.classList.add('bg-dark', 'shadow');} 
+      else {nav.classList.remove('bg-dark', 'shadow'); } });
+      </script>
+<a id="back-to-top" href="#" class="btn btn-light btn-lg back_to_top" role="button"><i class="fas fa-chevron-up">
+
+</i></a><script>$(document).ready(function(){
+  $(window).scroll(function () { 
+  if ($(this).scrollTop() > 50) {
+  $('#back-to-top').fadeIn(); } 
+  else {
+  $('#back-to-top').fadeOut(); } });
+  // scroll body to 0px on click        
+  $('#back-to-top').click(function () {
+  $('body,html').animate({
+  scrollTop: 0 }, 400);
+  return false;});});
+  </script>
         
 </body>
 </html>
