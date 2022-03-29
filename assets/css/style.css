@@ -29,8 +29,9 @@
 
 }
 
-#gallery {
+.gallery {
     text-align: center;
+    margin-inline:1rem ;
 }
 
 #contact {
@@ -68,3 +69,4 @@ p {
     margin-bottom: 1rem;
     padding:1rem;
 }
+
