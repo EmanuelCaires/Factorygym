@@ -7,11 +7,13 @@
 }
 
 .navbar-brand {
+    
     font-size: 2rem;
     font-weight: bold;
 }
 
 .nav-item {
+
     font-size: 1rem;
     font-weight: absolute;
     text-decoration: #ffffff;
@@ -25,17 +27,22 @@ h1 {
 }
 
 /*About*/
-.about  {
-    text-align:center;
-    font-size:medium;
-}
 
 .text-content {
     text-align: justify;
 
 }
 
+p {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding:1rem;
+}
+
 /*Classes*/
+
 #classes {
     text-align:center;
 }
@@ -51,33 +58,35 @@ h1 {
 /*Gallery*/
 
 .gallery{
+
     text-align: center;
 }
 
 /*Contact form*/
 
 .btn-primary {
-    color: #ffffff;
-    background-color:#292929;
-    border-color: black;
+
+    color: #ffffff !important;
+   
+
 }
 
 .btn-primary:hover {
     
-    color: #fff;
-    background-color: #292929;
-    border-color: black;
+    color: #ffffff !important;
+
 }
 
 /*background img*/
+
 .img-fluid bg {
+
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
   .container-fluid{
-    
 
      padding-right: 0;
      padding-left: 0; 
@@ -85,19 +94,10 @@ h1 {
     margin-left: auto;
   }
 
-
-  
-
-p {
-    margin-left: 1rem;
-    margin-top: 1rem;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
-    padding:1rem;
-}
-
 /* right to the top buttom*/
+
 #myBtn {
+
     display: none;
     position: fixed; 
     bottom: 150px;
@@ -114,6 +114,7 @@ p {
   }
   
   #myBtn:hover {
+
     background-color: #555; 
   }
 
