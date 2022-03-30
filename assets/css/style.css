@@ -89,3 +89,14 @@ p {
   #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
   }
+
+  .container-fluid{
+      position:;
+
+     padding-right: 0;
+     padding-left: 0; 
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  
