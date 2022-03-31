@@ -7,11 +7,9 @@ It also gives the ability to make contact with the Gym easily through social med
 
 # Responsive Views
 
-[My image](username.github.com/repository/img/image.jpg)
+[My image](https://github.com/EmanuelCaires/Factorygym/blob/main/assets/gallery/responsive.svg)
 
 
-
-src="assets/gallery/bodybalance.jpg"
 # Ux
 
 ## User Goals
