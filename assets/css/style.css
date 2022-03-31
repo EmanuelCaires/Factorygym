@@ -6,6 +6,9 @@
 
 }
 
+.bg-dark {
+    background-color: #292929!important;
+}
 .navbar-brand {
 
     font-size: 2rem;
