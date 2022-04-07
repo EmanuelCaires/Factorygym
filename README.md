@@ -7,7 +7,7 @@ It also gives the ability to make contact with the Gym easily through social med
 
 # Responsive Views
 
-[Responsive views](https://github.com/EmanuelCaires/Factorygym/blob/main/assets/gallery/responsive.svg)
+![Responsive views](https://github.com/EmanuelCaires/Factorygym/blob/main/assets/gallery/responsive.svg)
 
 
 # Ux
@@ -51,9 +51,9 @@ I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop m
 The wireframes are below:
 
 
-### Desktop Wireframe
-### Tablet Wireframe
-### Phone Wireframe
+- [Desktop Wireframes](#desktop-wireframes)
+      - [Tablet Wireframes](#tablet-wireframes)
+      - [Mobile Wireframes](#mobile-wireframes)
 
 
    # Color 
@@ -77,11 +77,13 @@ I will explain the uses of the varius colours below, starting from top to bottom
 
 Colors Used: 
 
- * #292929 - This colour will be used as a Footer Background Color,submit buttom and text Color.
+ * #292929 - This colour will be used as submit buttom color and text content  Color.
 
  * #616161 - This colour will be used on the "back to the top" buttom as hover color.
 
  * #FFFFFF - This colour will be used as a background colour, Navbar and Footer as a text colour.
+ 
+ * #212925 - This color will be used as navbarand footer background color
 
 
  
@@ -130,28 +132,16 @@ large blank spaces. It allows the user to navigate around easily and
 &nbsp;
 
 
- + In my wireframes,  I had designed three different types of devices Desktop View, Mobile View and Tablet View.
+ To test the website i will use chrome develepor tools to resize my browser to emulate three mobile devices,(iphone 12 pro, iphone se pixel 5 ) and two tablets device (ipad air, ipad mini) and compare whit the wireframes that i created.The website it was responsive in all the mobile phone view and the tablet view,with one particular issue that was the burguer menu it did not collapse.after investigate i found that was using diferent version of bootstrap that was blocking to not colapse the nav menu.
 
-+ While I was developing the site, this did not make sense. 
-
-+ There was such a long scroll with it being a one-page site, I felt I needed to speed up the movement for someone who was instantly interested so included it on all screen sizes.
-
-+ On actual smaller devices, instead of on Chrome Developer, the main navigation menu did not drop down. 
-
-+ I found that I was repeating a lot of code in my style.css file in order to centre items. 
-+ I created a class to do this and then applied it when needed.
- + When I was validating the HTML code, I had a few errors showing. This was in the classes form where I had a method of width and height.
-
-
- 
-
++ During the validate of html ans css on validatewc3.org i found out div whitout closer and some duplicated, after amending this my html passed whitout error.whit css i did the same procedure found out that was some error that i amend and passed on the css validator whitout any errors.
     - HTML (index.html) validator [results](https://validator.w3.org/nu/#l75c45")
     - CSS validator [results](https://jigsaw.w3.org/css-validator/validator#css")
 
- 
- 
++ After all i felt that the site has hit the goals.The site responds nicely to all types of devices that was tested, the images look clean and sharp this allow user to navigaate easily throuth the site not puting the user off.
 
- + When going through my UX section, to ensure that all my goals were met for the project, I noticed that I had missed one, 'As a user, I want to know that the club is well established'. I adjusted the text in the welcome section to suit.
++ While using the lighthouse dev tools to test the site I was prompt with delays to load the images due to the format i am  using.
+
 \
 &nbsp;
 
