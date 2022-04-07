@@ -7,7 +7,7 @@ It also gives the ability to make contact with the Gym easily through social med
 
 # Responsive Views
 
-![Responsive views](https://github.com/EmanuelCaires/Factorygym/blob/main/assets/gallery/responsive.svg)
+![Responsive views](https://github.com/EmanuelCaires/Factorygym/documents/responsive views.png)
 
 
 # Ux
@@ -52,8 +52,8 @@ The wireframes are below:
 
 
 - [Desktop Wireframes](#desktop-wireframes)
-      - [Tablet Wireframes](#tablet-wireframes)
-      - [Mobile Wireframes](#mobile-wireframes)
+- [Tablet Wireframes](#tablet-wireframes)
+- [Mobile Wireframes](#mobile-wireframes)
 
 
    # Color 
