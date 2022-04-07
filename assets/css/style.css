@@ -10,6 +10,7 @@ h1 {
 p {
     margin: 1rem;
     padding: 1rem;
+
 }
 /*navbar*/
 .navbar-dark .navbar-nav .nav-link {
@@ -116,3 +117,10 @@ p {
 
     background-color: #616161;
 }
+
+/*footer*/
+
+div.text-center.text-light.p-3{
+    background-color: #212529;
+}
+
