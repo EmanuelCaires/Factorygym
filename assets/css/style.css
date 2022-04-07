@@ -1,5 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100,200,300,400,500,600,700 &family=Roboto:wght@100,200,300,400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100, 200, 300, 400, 500, 600, 700 &family=Roboto:wght@100, 200, 300, 400, 500, 600, 700&display=swap');
 
+/*H1*/
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+/*p*/
+p {
+    margin: 1rem;
+    padding: 1rem;
+}
 /*navbar*/
 .navbar-dark .navbar-nav .nav-link {
     color: #ffffff;
@@ -7,7 +18,7 @@
 }
 
 .bg-dark {
-    background-color: #292929!important;
+    background-color: #292929 !important;
 }
 .navbar-brand {
 
@@ -21,23 +32,12 @@
     text-decoration: #ffffff;
 }
 
-/*H1*/
-
-h1 {
-    font-size: 2.5rem;
-    text-align: center;
-}
 
 /*About*/
 
 .text-content {
     text-align: justify;
 
-}
-
-p {
-    margin: 1rem;
-    padding: 1rem;
 }
 
 /*Classes*/
@@ -49,15 +49,15 @@ p {
 .card-body {
 
     flex: 1 1 auto;
-    min-height: 1px;
+    min-height: 1rem;
     margin: 1rem;
     padding: 1.25rem;
     text-align: justify;
 }
 
 .rounded {
-    width: 250px;
-    height: 250px;
+    width: 15.6rem;
+    height: 15.6rem;
 
 }
 /*Gallery*/
@@ -69,12 +69,6 @@ p {
 
 /*Contact form*/
 
-.btn-primary {
-
-    color: #ffffff !important;
-
-
-}
 
 .btn-primary:hover {
 
@@ -105,17 +99,17 @@ p {
 
     display: none;
     position: fixed;
-    bottom: 150px;
-    right: 30px;
+    bottom: 9.3rem;
+    right: 1.8rem;
     z-index: 99;
     border: none;
     outline: none;
     background-color: #292929;
     color: #FFFFFF;
     cursor: pointer;
-    padding: 15px;
-    border-radius: 10px;
-    font-size: 18px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
 }
 
 #myBtn:hover {

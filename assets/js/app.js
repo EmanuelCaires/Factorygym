@@ -19,11 +19,10 @@ $(document).ready(function () {
       if (window.pageYOffset > 100) {
       nav.classList.add('bg-dark', 'shadow');} 
       else {nav.classList.remove('bg-dark', 'shadow'); } });
-});
+    });
 
-//Get the button
-var mybutton = document.getElementById("myBtn");
-
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
