@@ -7,7 +7,7 @@ It also gives the ability to make contact with the Gym easily through social med
 
 # Responsive Views
 
-[responsive Views](https://github.com/EmanuelCaires/Factorygym/documents/responsiveviews.png)
+![responsive Views](https://github.com/EmanuelCaires/Factorygym/documents/responsiveviews.png)
 
 
 # Ux
