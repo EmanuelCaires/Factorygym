@@ -5,10 +5,6 @@ Welcome to FactoryGym.
 This site gives some information about the gym and diferents types of classes that can be practise, also gives you a brief gallery view of the interior of the gym.
 It also gives the ability to make contact with the Gym easily through social media or directly via the contact form.
 
-# Responsive Views
-
-![responsive Views](https://github.com/EmanuelCaires/Factorygym/documents/responsiveviews.png)
-
 
 # Ux
 
