@@ -73,14 +73,13 @@ I will explain the uses of the varius colours below, starting from top to bottom
 
 Colors Used: 
 
- * #292929 - This colour will be used as submit buttom color and text content  Color.
+ * #292929 - This colour will be used as navbarand footer background color submit buttom color and text content  Color.
 
  * #616161 - This colour will be used on the "back to the top" buttom as hover color.
 
  * #FFFFFF - This colour will be used as a background colour, Navbar and Footer as a text colour.
  
- * #212925 - This color will be used as navbarand footer background color
-
+ 
 
  
 
@@ -129,6 +128,9 @@ large blank spaces. It allows the user to navigate around easily and
 
 
  To test the website i will use chrome develepor tools to resize my browser to emulate three mobile devices,(iphone 12 pro, iphone se pixel 5 ) and two tablets device (ipad air, ipad mini) and compare whit the wireframes that i created.The website it was responsive in all the mobile phone view and the tablet view,with one particular issue that was the burguer menu it did not collapse.after investigate i found that was using diferent version of bootstrap that was blocking to not colapse the nav menu.
+ 
+ ![](/Factorygym/documents/desktop-performance.png?raw=true "desktop result")
+
 
 + During the validate of html ans css on validatewc3.org i found out div whitout closer and some duplicated, after amending this my html passed whitout error.whit css i did the same procedure found out that was some error that i amend and passed on the css validator whitout any errors.
     - HTML (index.html) validator [results](https://validator.w3.org/nu/#l75c45")
