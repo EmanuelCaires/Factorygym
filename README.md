@@ -72,20 +72,7 @@ It also gives the ability to make contact with the Gym easily through social med
 * I expect screen size not to affect the quality of the website.
 * I expect all information to be correct and accurate.
 
-## Wireframes
-I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
-
-The wireframes are below:
-
-
-- [Desktop Wireframes](#desktop-wireframes)
-- [Tablet Wireframes](#tablet-wireframes)
-- [Mobile Wireframes](#mobile-wireframes)
-
-
 # Design Choices
- 
-
 
 ## Fonts
 In order to move away from the basic fonts available, I have used 
@@ -113,15 +100,15 @@ I will explain the uses of the varius colours below, starting from top to bottom
  * #616161 - This colour will be used on the "back to the top" buttom as hover colour .
 
  * #FFFFFF - This colour will be used as a background colour, Navbar and Footer as a text colour.
- 
- 
 
- 
+## Wireframes
+I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop my wireframes for my website. I initially created the mobile version and then the wireframes and then scalled it up for both tablet and desktop. Because a requirement is to give little but quality information to the user to make them want to engage with the club, a one-page website is used. This gets the user through the content and quickly to the contact form and details via scrolling or directly via the navigation bar.
 
+The wireframes are below:
 
-    
-
-
+###   [desktop view](https://user-images.githubusercontent.com/75618981/188289727-d51791f7-d5fc-4916-9718-b451a71b8132.png)
+###   [phone view](https://user-images.githubusercontent.com/75618981/188289735-318ed384-20f9-44ef-bf26-6eefa52f2034.png)
+###   [tablet view](https://user-images.githubusercontent.com/75618981/188289739-0165242b-4060-45e6-b7d1-e2d9efff13e0.png)
 
 
 ## Structure
