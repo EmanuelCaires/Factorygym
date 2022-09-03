@@ -7,7 +7,37 @@ It also gives the ability to make contact with the Gym easily through social med
 
 ![Diferents views](https://user-images.githubusercontent.com/75618981/188288504-52ea86bf-c8b8-42d4-8837-8bda5ea7ee44.png)
 
-## Ux
+# Table of Contents
+* [UX](#ux "UX")
+    * [User Goals](#user-goals "User Goals")
+    * [User Stories](#user-stories "User Stories")
+    * [Site Owners Goals](#site-owners-goals)
+    * [User Requirements and Expectations](#user-requirements-and-expectations)
+         * [Requirements](#requirements)
+         * [Expectations](#expectations)
+     * [Design Choices](#design-choices)
+        * [Fonts](#fonts)
+        * [Icons](#icons)
+        * [Colours](#colours)
+        * [Structure](#structure)
+    * [Wireframes](#wireframes)
+    * [Features](#features)
+        * [Existing Features](#existing-features)
+            * [Navigation Bar](#navigation-bar)
+            * [Landing Page](#landing-page)
+            * [About Section](#about-section)
+            * [Events Section](#events-section)
+            * [Contact Section](#contact-section)
+            * [Footer](#footer)
+        * [Features to be implemented](#features-to-be-implemented)
+    * [Technologies used](#technologies-used)
+        * [Languages](#languages)
+        * [Tools and Libraries](#tools-and-libraries)
+    * [Testing](#testing)
+        * [Unfixed Bugs](#unfixed-bugs)
+    * [Deployment](#deployment)
+    * [Credits](#credits)
+* Ux
 
 ## User Goals
 * Visually appealing, including images.
@@ -23,7 +53,7 @@ It also gives the ability to make contact with the Gym easily through social med
 * As a user, I want to be able to easily navigate through the website.
 * As a user, I want to know what type of classes the gym offers, any section whith free wheights and other equipment.
 
-## Site owners Goals
+## Site Owners Goals
 * Promote the Gym.
 * Increase the number of members.
 * Increase rankings on search engines.
@@ -53,7 +83,8 @@ The wireframes are below:
 - [Mobile Wireframes](#mobile-wireframes)
 
 
-   # Color 
+# Design Choices
+ 
 
 
 ## Fonts
@@ -67,16 +98,19 @@ to find a text that best suits the feel of the website.
  I decided to use 
  [Roboto](https://fonts.google.com/specimen/Roboto?query=rob "Roboto").
  
+ ## Icons
+ 
+I will used some icons for my website from the Font Awesome library. These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on smaller devices. All icons used will be styled and in keeping with the appearance of the website.
 
 #
 
 I will explain the uses of the varius colours below, starting from top to bottom.
 
-Colors Used: 
+## Colours
 
- * #292929 - This colour will be used as navbarand footer background color submit buttom color and text content  Color.
+ * #292929 - This colour will be used as navbarand footer background colour submit buttom color and text content  Color.
 
- * #616161 - This colour will be used on the "back to the top" buttom as hover color.
+ * #616161 - This colour will be used on the "back to the top" buttom as hover colour .
 
  * #FFFFFF - This colour will be used as a background colour, Navbar and Footer as a text colour.
  
