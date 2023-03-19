@@ -27,6 +27,7 @@ It also gives the ability to make contact with the Gym easily through social med
             * [Landing Page](#landing-page)
             * [About Section](#about-section)
             * [Classes Section](#classes-section)
+            * [Gallery Section](#galery-section)
             * [Contact Section](#contact-section)
             * [Footer](#footer)
         * [Features to be implemented](#features-to-be-implemented)
@@ -223,7 +224,14 @@ large blank spaces. It allows the user to navigate around easily and
 
 ![](Wireframes/Classes.png)
 
-![]()
+### Gallery Section
+
++ The gallery section show a slideshow of pictures of the Gym.
+
+![](Wireframes/Gallery.png)
+
+### 
+
 ![]()
 ![]()
 
