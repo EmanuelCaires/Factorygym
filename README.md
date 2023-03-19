@@ -204,7 +204,12 @@ large blank spaces. It allows the user to navigate around easily and
 
 ![](Wireframes/SmallDeviceMenu.png)
 
-![]()
+### Landing Page
+
++ The landing page image gives the user instant knowledge of what is involved in the Gym amd a good motivation to scroll down to find out more.
+
+![](Wireframes/LandingPage.png)
+
 ![]()
 ![]()
 ![]()
