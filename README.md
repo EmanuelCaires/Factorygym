@@ -5,7 +5,7 @@ Welcome to FactoryGym.
 This site gives some information about the gym and diferents types of classes that can be practise, also gives you a brief gallery view of the interior of the gym.
 It also gives the ability to make contact with the Gym easily through social media or directly via the contact form.
 
-![Diferents views](https://user-images.githubusercontent.com/75618981/188288504-52ea86bf-c8b8-42d4-8837-8bda5ea7ee44.png)
+![](Wireframes/diferentsviews.png)
 
 # Table of Contents
 * [UX](#ux "UX")
@@ -187,6 +187,31 @@ large blank spaces. It allows the user to navigate around easily and
 * [Font Awesome library](https://fontawesome.com/ "Font Awesome")
 * [Google Fonts](https://fonts.google.com/ "Google Fonts")
 # Features
+
+## Existing Features
+
+### Navigation Bar
+
++ The navigation bar is fully responsive to allow for various screen sizes. It includes links to manover around the site easily and the Gym logo which doubles as a link back to the home screen.
+
+![](Wireframes/NavBar.png)
+
++ Small devices (<992px)
+
++ As the navigation bar would be unuseable in the desktop version on smaller devices, it takes on a hamburger style.
+
+![](Wireframes/SmallDevice.png)
+
+![](Wireframes/SmallDeviceMenu.png)
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+
 
 + Add a menbership Page where will be able to gym subcription and classes booked.
 + Add a booking in system classes.
