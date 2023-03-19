@@ -108,8 +108,10 @@ I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop m
 The wireframes are below:
 
 ###   [desktop view](Wireframes/desktopview.png)
+
 ###   [phone view](Wireframes/phoneview.png)
-###   [tablet view]()
+
+###   [tablet view](Wireframes/tabletview.png)
 
 
 ## Structure
