@@ -26,7 +26,7 @@ It also gives the ability to make contact with the Gym easily through social med
             * [Navigation Bar](#navigation-bar)
             * [Landing Page](#landing-page)
             * [About Section](#about-section)
-            * [Events Section](#events-section)
+            * [Classes Section](#classes-section)
             * [Contact Section](#contact-section)
             * [Footer](#footer)
         * [Features to be implemented](#features-to-be-implemented)
@@ -212,12 +212,17 @@ large blank spaces. It allows the user to navigate around easily and
 
 ### About Section
 
-+ The about section gives a brief, and  description of the type of classes, membership prices and some offers that will find at the Gym.
++ The about section gives a description of the type of classes, membership prices and some offers that will find at the Gym.
 + It is also responsive to suit the different screen sizes.
  
 ![](Wireframes/About.png)
 
-![]()
+### Classes Section
+
++ The classes section gives am idea about the type of classesexiste at the Gym  and a dropdown buttom, when pressed  open up with small descripition of class.
+
+![](Wireframes/Classes.png)
+
 ![]()
 ![]()
 ![]()
