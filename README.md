@@ -210,7 +210,13 @@ large blank spaces. It allows the user to navigate around easily and
 
 ![](Wireframes/LandingPage.png)
 
-![]()
+### About Section
+
++ The about section gives a brief, and  description of the type of classes, membership prices and some offers that will find at the Gym.
++ It is also responsive to suit the different screen sizes.
+ 
+![](Wireframes/About.png)
+
 ![]()
 ![]()
 ![]()
