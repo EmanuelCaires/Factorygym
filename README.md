@@ -107,9 +107,9 @@ I have used [Balsamic](https://balsamiq.com/wireframes/ "Balsamic") to develop m
 
 The wireframes are below:
 
-###   [desktop view](Wireframes/desktop%view.png)
-###   [phone view](https://user-images.githubusercontent.com/75618981/188289735-318ed384-20f9-44ef-bf26-6eefa52f2034.png)
-###   [tablet view](https://user-images.githubusercontent.com/75618981/188289739-0165242b-4060-45e6-b7d1-e2d9efff13e0.png)
+###   [desktop view](Wireframes/desktopview.png)
+###   [phone view](Wireframes/phoneview.png)
+###   [tablet view]()
 
 
 ## Structure
