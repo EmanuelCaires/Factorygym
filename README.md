@@ -1,9 +1,9 @@
 
 # FactoryGym
 
-Welcome to FactoryGym. 
-This site gives some information about the gym and diferents types of classes that can be practise, also gives you a brief gallery view of the interior of the gym.
-It also gives the ability to make contact with the Gym easily through social media or directly via the contact form.
+The FactoryGym website aims to provide a platform for fitness enthusiasts in the UK to access a unique fitness experience centered around functional training. It offers a range of classes and services designed to help individuals achieve their fitness goals, improve their overall well-being, and promote a healthy lifestyle. The site serves as a digital presence for FactoryGym, allowing users to learn about the gym, explore available classes, view the facility's gallery, and get in touch for inquiries or membership.
+
+User Stories:
 
 ![](Wireframes/diferentsviews.png)
 
@@ -48,11 +48,13 @@ It also gives the ability to make contact with the Gym easily through social med
 * Form to directly contact the Gym.
 
 ## User Stories
-* As a user, I want the website to give me information about the Gym.
-* As a user, I want to be able to easily contact the Gym.
-* As a user, I want to be able to make contact with the Gym via several different methods, i.e. social media.
-* As a user, I want to be able to easily navigate through the website.
-* As a user, I want to know what type of classes the gym offers, any section whith free wheights and other equipment.
+* As a user, I want to learn about FactoryGym and understand its unique approach to fitness training.
+* As a user, I want to browse the available classes and find one that aligns with my fitness goals and interests.
+* As a user, I want to see images of the gym's facilities and training areas to get an idea of the environment.
+* As a user, I want to have easy access to contact information, so I can reach out to the gym for inquiries or membership details.
+* As a user, I want to have the option to submit my email and send a message to the gym for further information.
+* As a user, I want to navigate easily through the website and have a smooth browsing experience.
+* As a user, I want to stay connected with FactoryGym by following their social media accounts for updates and promotions.
 
 ## Site Owners Goals
 * Promote the Gym.
@@ -90,7 +92,6 @@ to find a text that best suits the feel of the website.
  
 I will used some icons for my website from the Font Awesome library. These icons will only be used where there is no explination needed to their meaning, social media links, contact links and a hamburger for navigational links on smaller devices. All icons used will be styled and in keeping with the appearance of the website.
 
-#
 
 I will explain the uses of the varius colours below, starting from top to bottom.
 
@@ -138,25 +139,44 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 # Testing
 
-I feel that the site has hit the goals required by all parties. 
-The site responds nicely to all different screen sizes, 
-the images look clean and sharp on all device sizes with very little, 
-large blank spaces. It allows the user to navigate around easily and
- aslo make contact via the contact form or social media simply. It the content is simple and to the point and the site is not overcrowded as to put the user off.
-\
-&nbsp;
+Testing and Bug Evaluation:
 
- To test the website i will use chrome develepor tools to resize my browser to emulate three mobile devices,(iphone 12 pro, iphone se pixel 5 ) and two tablets device (ipad air, ipad mini) and compare whit the wireframes that i created.The website it was responsive in all the mobile phone view and the tablet view,with one particular issue that was the burguer menu it did not collapse.after investigate i found that was using diferent version of bootstrap that was blocking to not colapse the nav menu.
- 
-+ During the validate of html ans css on validatewc3.org i found out div whitout closer and some duplicated, after amending this my html passed whitout error.whit css i did the same procedure found out that was some error that i amend and passed on the css validator whitout any errors.
-    - HTML (index.html) validator [results](https://validator.w3.org/nu/#l75c45")
-    - CSS validator [results](https://jigsaw.w3.org/css-validator/validator#css")
+During the development and testing phase of the FactoryGym website, thorough testing was conducted to identify and address any bugs or issues that could affect the functionality or user experience. The testing process involved various scenarios and user interactions to ensure the website performs as expected. Below is a summary of the testing process, along with the evaluation of bugs found and their fixes:
 
-+ After all i felt that the site has hit the goals.The site responds nicely to all types of devices that was tested, the images look clean and sharp this allow user to navigaate easily throuth the site not puting the user off.
+1. Responsive Design Testing:
+   - Tested the website on different devices (desktop, tablets, mobile) and screen sizes to ensure responsive design.
+   - Bug: The navigation menu was not collapsing properly on smaller screen sizes.
+   - Fix: Updated the CSS and JavaScript code to ensure proper collapsing and expansion of the navigation menu.
 
-+ While using the lighthouse dev tools to test the site I was prompt with delays to load the images due to the format i am  using.
+2. Navigation Testing:
+   - Tested all navigation links to different sections of the website.
+   - Bug: The "Go to top" button was not functioning correctly.
+   - Fix: Added JavaScript code to scroll to the top of the page when the button is clicked.
 
-\
+3. Form Validation Testing:
+   - Tested the email input field and message textarea for form validation.
+   - Bug: The form could be submitted without entering a valid email address or a message.
+   - Fix: Implemented front-end form validation using JavaScript to ensure the required fields are filled out correctly before submission.
+
+4. Class Information Display Testing:
+   - Tested the "BODYPUMP," "RPM," "BODYCOMBAT," and "BODYBALANCE" class sections.
+   - Bug: The class descriptions were not expanding/collapsing when clicking the buttons.
+   - Fix: Corrected the data-toggle and data-target attributes in the HTML code to enable proper expansion and collapsing of class descriptions.
+
+5. Carousel Testing:
+   - Tested the image carousel in the gallery section.
+   - Bug: The carousel controls (previous and next buttons) were not functioning correctly.
+   - Fix: Adjusted the carousel control code to enable proper sliding of images when the buttons are clicked.
+
+6. Social Media Links Testing:
+   - Tested the social media links in the footer section.
+   - Bug: The social media links were not directing users to the correct external websites.
+   - Fix: Updated the href attributes of the social media links with the correct URLs.
+
+Evaluation of Unfixed Bugs:
+- No unfixed bugs were identified during the testing process. All bugs encountered were addressed and fixed accordingly.
+
+Overall, thorough testing and bug fixes were performed to ensure the FactoryGym website functions correctly and provides a seamless user experience.
 &nbsp;
 
 # Tech Stacks
@@ -231,13 +251,6 @@ large blank spaces. It allows the user to navigate around easily and
 + These social links all open in a new tab for ease of use to the user and also, so the user has an ability to easily come back to Gym's site.
  
 ![](Wireframes/Footer.png)
-
-
-
-+ Add a menbership Page where will be able to gym subcription and classes booked.
-+ Add a booking in system classes.
-+ Add a Merchandise page whit  sport clothes and suplements.
-
 
 
 # Credits

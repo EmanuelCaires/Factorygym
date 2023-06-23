@@ -84,6 +84,7 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    viewport-fit: auto;
 }
 
 .container-fluid {
@@ -120,7 +121,6 @@ p {
 
 /*footer*/
 
-div.text-center.text-light.p-3{
+div.text-center.text-light.p-3 {
     background-color: #292929 !important;
 }
-
