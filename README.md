@@ -116,7 +116,7 @@ The wireframes are below:
 
 
 ## Structure
-I will be building my website with a mobile first mindset using the iPhone 5/SE (320px) as the smallest screen size for styling to look good on. The screen size breakpoints that I will be using are from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap").
+The website is designed with a responsive structure using Bootstrap breakpoints, ensuring an excellent user experience across various devices and screen sizes. The website follows a well-organized structure, consisting of different sections that adapt seamlessly to different screen dimensions.
 
 | Screen Size | Breakpoint |
 | ----------- | ---------- |
@@ -138,6 +138,16 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 + If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
 # Testing
+
+### Lighthouse Mobile testing 
+
+![](Wireframes/lighthousemobile.jpg)
+
+### Lighthouse Desktop testing 
+
+![](Wireframes/lighthousdesk.jpg)
+
+
 
 Testing and Bug Evaluation:
 
