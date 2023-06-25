@@ -149,6 +149,16 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 
 
+### W3C VALIDATION
+
+![](Wireframes/htmlvalidator.jpg)
+
+![](Wireframes/cssvalidator.jpg)
+
+
+
+
+
 Testing and Bug Evaluation:
 
 During the development and testing phase of the FactoryGym website, thorough testing was conducted to identify and address any bugs or issues that could affect the functionality or user experience. The testing process involved various scenarios and user interactions to ensure the website performs as expected. Below is a summary of the testing process, along with the evaluation of bugs found and their fixes:
