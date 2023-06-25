@@ -145,7 +145,7 @@ Following writing the code then commiting and pushing to GitHub, this project wa
 
 ### Lighthouse Desktop testing 
 
-![](Wireframes/lighthousdesk.jpg)
+![](Wireframes/lighthousedesk.jpg)
 
 
 
